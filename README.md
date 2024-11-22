@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-Tc Tac Toe, also known as Noughts and Crosses, is a classic two-player game played on a 3x3 grid. Players take turns marking their spaces with X or O, aiming to align three of their marks in a row, column, or diagonal. The game is simple yet strategic, making it a popular choice for players of all ages. Here are some key points about the game:
+Tic Tac Toe, also known as Noughts and Crosses, is a classic two-player game played on a 3x3 grid. Players take turns marking their spaces with X or O, aiming to align three of their marks in a row, column, or diagonal. The game is simple yet strategic, making it a popular choice for players of all ages. Here are some key points about the game:
 
 # Game Objective
 
